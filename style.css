@@ -1,0 +1,16 @@
+.nav-bg{
+    background-color: #fff !important;
+}
+.button1{
+    background-color: black;
+    padding: 5px 10px;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+}
+.carousel-bg{
+    background-color: blanchedalmond;
+}
+.carouser1{
+    padding-right: 10px;
+}
