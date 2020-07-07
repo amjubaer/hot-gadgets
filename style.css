@@ -1,3 +1,12 @@
+.container{
+    margin-bottom: 100px;
+}
+.logo {
+	margin-top: 21px;
+}
+.carousel-item{
+    padding: 20px;
+}
 .nav-bg{
     background-color: #fff !important;
 }
@@ -9,8 +18,61 @@
     cursor: pointer;
 }
 .carousel-bg{
-    background-color: blanchedalmond;
 }
 .carouser1{
     padding-right: 10px;
+}
+.carousel-indicators .color {
+	background-color: rgb(240, 233, 233);
+	padding: 2px;
+	border-radius: 44%;
+	width: 10px;
+	height: 8px;
+}
+.carousel-indicators .active {
+	background-image: linear-gradient(to right, #ffa131,#FDD841);
+	width: 28px;
+	border-radius: 35%;
+}
+.see-all {
+	margin-left: 15px;
+	color: #FFA131;
+	font-weight: 587;
+	margin-top: 12px;
+}
+.item {
+	margin-bottom: 37px;
+}
+.card {
+	border: none;
+	box-shadow: 5px 5px 30px#57575757;
+}
+.right img {
+	width: 100%;
+	margin-top: 55px;
+}
+.see {
+	margin-top: 190px;
+	padding: 40px 67px;
+	border-radius: 5px 30px 5px 30px;
+	box-shadow: 5px 5px 40px #53535353;
+}
+.tex-right {
+	padding: 40px 50px;
+	border-radius: 10px 5px 23px 5px;
+	box-shadow: 5px 5px 40px #53535353;
+	margin-bottom: 30px;
+}
+h4 {
+	text-align: center;
+	margin-top: 20px;
+}
+.categori {
+	text-align: center;
+}
+.emty-bg {
+	height: 7px;
+	background-image:linear-gradient(to right,#FDD841,#FFA04A);
+	margin: 0px 46% 5%;
+	border-radius: 20%;
 }
